@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "EJPropertySDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "物业系统SDK"
   spec.description  = <<-DESCRIPTION
 pod spec create EJPropertySDK
